@@ -1,0 +1,7 @@
+options:
+  broadcast-changes: true
+  broadcast-message: '&e{Name} &9has is now a(n) &e{Rank}&9!'
+ranks:
+  Squire: 5000
+  Knight: 12500
+  Baron: 25000

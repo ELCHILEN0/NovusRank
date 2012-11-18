@@ -1,0 +1,12 @@
+name: NovusRank
+author: ELCHILEN0
+description: Rank players after they pay a certain amount!
+version: 1.0.0
+website: http://www.novuscraft.org
+main: com.TeamNovus.NovusRank.NovusRank
+depends: [Vault]
+commands:
+  buyrank:
+    description: Buy a rank!
+  ranks:
+    description: List the available ranks!
